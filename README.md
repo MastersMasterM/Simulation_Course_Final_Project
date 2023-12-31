@@ -1,5 +1,5 @@
 # Simulation Course Projects
-## Probelm Statment
+## Problem Statment
 A workshop repairs all kinds of small machines. The workshop consists of five workstations and the flow of orders inside the workshop is as shown below:
 
 <img width="656" alt="Screenshot 2022-07-29 175133" src="https://user-images.githubusercontent.com/102898063/181769386-08ef03ad-657d-4a85-965f-06fa5bbb6dbe.png">
